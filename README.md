@@ -1,6 +1,6 @@
-# ao28th28thedev.github.io
+# ultrathyme42.github.io
 Prodidows:
-https://ao28th28thedev.github.io/prodidows
+https://ultrathyme42.github.io/prodidows
 
 ?mods=Anything or ?mods=Anything,Anything
 'Anything' above means the mod name for example: /?mods=WalkSpeed,FastGameSpeed
